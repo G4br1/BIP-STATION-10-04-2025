@@ -8,7 +8,7 @@ A **BiP Station** é mais do que uma plataforma — é um **movimento digital**.
 
 ## 🖥️ Demonstração do Projeto
 
-/static/img/bipstation.png
+![template do site](BIP STATION 10-04-2025/static/img/bipstation.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
